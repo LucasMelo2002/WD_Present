@@ -16,7 +16,7 @@ body {
 }
 
 .greetings {
-    font-size: 6rem;
+    font-size: 5rem;
     font-weight: 600;
 }
 
@@ -116,13 +116,17 @@ body {
 }
 
 .description {
-    font-size: 2rem;
+    font-size: 4rem;
     margin-bottom: 20px;
     text-shadow:
-        0 0 8px #39c6d6,
+
         0 0 8px #39c6d6,
         0 0 8px #39c6d6,
         0 0 8px #39c6d6;
+}
+
+.description span {
+    font-size: 0.75rem;
 }
 
 
